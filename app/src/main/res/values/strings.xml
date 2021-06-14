@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">YeahNote</string>
+    <string name="note">текст</string>
+    <string name="title">Заголовок</string>
+    <string name="date">дата</string>
+    <string name="yeahnote">YEAHNOTE!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">текст</string>
 </resources>
