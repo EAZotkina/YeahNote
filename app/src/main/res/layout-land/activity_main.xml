@@ -6,7 +6,7 @@
 
     <androidx.fragment.app.FragmentContainerView xmlns:tools="http://schemas.android.com/tools"
         android:id="@+id/note_fragment"
-        android:name="com.eazot.yeahnote.NoteFragment"
+        android:name="com.eazot.yeahnote.list.NoteFragment"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -17,7 +17,7 @@
 
     <androidx.fragment.app.FragmentContainerView xmlns:tools="http://schemas.android.com/tools"
         android:id="@+id/note_text_fragment"
-        android:name="com.eazot.yeahnote.NoteTextFragment"
+        android:name="com.eazot.yeahnote.details.NoteTextFragment"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
